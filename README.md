@@ -13,9 +13,9 @@ Clicando duas vezes na figurinha, ela muda para o cartão da trilha explorer, al
 
 ## 🛠️ Tecnologias
 - HTML
--CSS
--JS
--Git e GitHub
+- CSS
+- JS
+- Git e GitHub
 
 ## 💙 Contato
 joaoliveira.batista1@gmail.com
